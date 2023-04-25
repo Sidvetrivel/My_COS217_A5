@@ -70,29 +70,45 @@ getchar:
 isspace:
 
 main:
-        adr x0, lLineCount
-        ldr w1, [x0]
-        adr x0, lWordCount
-        ldr w2, [x0]
-        adr x0, lCharCount
-        ldr w3, [x0]
-        adr x0, iChar
-        ldr w4, [x0]
-        adr x0, iInWord
-        ldr w5, [x0]
+    adr x0, lLineCount
+    ldr w1, [x0]
+    adr x0, lWordCount
+    ldr w2, [x0]
+    adr x0, lCharCount
+    ldr w3, [x0]
+    adr x0, iChar
+    ldr w4, [x0]
+    adr x0, iInWord
+    ldr w5, [x0]
 
-    loop1:
-        cmp w4, w3
-        beq endloop1
+    mainLoop:
+        cmp w4, EOF
+        beq endmainLoop
         add w4, w4, 1
         cmp w5, FALSE
-        beq endif1
-    endif:
-    endloop1:
+        beq else1
+        cmp w1, FALSE
+        beq endiInWord
+        add w2, w2, 1
+        mov w5, FALSE
+    endiInWord:
+        b endif1
+    else1:
+        cmp w1, TRUE
+        beq endiInWord2
+        mov w5, TRUE
+    endiInWord2:
+    endif1:
+        cmp w4, //newline
+        bne endofWord
+        add w1, w1, 1
+    endofWord:
+        b mainLoop
+    endmainLoop:
         cmp w5, FALSE
         beq endif4
         add w2, w2, 1
-        endif4:
+    endlWordCount:
         // call print statement
         mov w0, 0
         ret 
