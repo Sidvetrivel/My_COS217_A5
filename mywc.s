@@ -70,3 +70,18 @@ getchar:
 isspace:
 
 main:
+        adr x0, lLineCount
+        ldr w1, [x0]
+        adr x0, lWordCount
+        ldr w2, [x0]
+        adr x0, lCharCount
+        ldr w3, [x0]
+        adr x0, iChar
+        ldr w4, [x0]
+        adr x0, iInWord
+        ldr w5, [x0]
+
+    loop1:
+        cmp w3, w3
+        beq endloop1
+        add w4, w4, 1
