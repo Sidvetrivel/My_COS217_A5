@@ -82,10 +82,10 @@ main:
     ldr w5, [x0]
 
     mainLoop:
-        cmp w4, EOF
+        cmp //getChar value, EOF
         beq endmainLoop
         add w4, w4, 1
-        cmp w5, FALSE
+        cmp //isspace, FALSE
         beq else1
         cmp w1, FALSE
         beq endiInWord
