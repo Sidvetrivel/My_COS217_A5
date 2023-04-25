@@ -82,6 +82,20 @@ main:
         ldr w5, [x0]
 
     loop1:
-        cmp w3, w3
+        cmp w4, w3
         beq endloop1
         add w4, w4, 1
+        cmp w5, FALSE
+        beq endif1
+    endif:
+    endloop1:
+        cmp w5, FALSE
+        beq endif4
+        add w2, w2, 1
+        endif4:
+        // call print statement
+        mov w0, 0
+        ret 
+
+
+        
