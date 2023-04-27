@@ -1,0 +1,97 @@
+Yes, this page is long, but it is important to read it in its entirety, 
+otherwise you might act against course policies, which could have serious 
+consequences.
+Please come to lectures; you'll learn something.
+Please come to, and participate in, your assigned precept; it's the best
+way to be prepared for the assignments. (Also, we take attendance.)
+Use Ed Discussion to get answers to your questions and help answer 
+others' questions, but you may not reveal anything about your assignment
+ solutions there.
+You may e-mail your own preceptor with questions that are not 
+appropriate for Ed. See Electronic Communication for more.
+Do not plagiarize assignment solutions! We (and the University) take 
+this very seriously. Please read the policy on Assignment Conduct 
+carefully, but, in short, when doing assignments, use only authorized 
+sources of information: course instructors, Intro Lab TAs in the Intro 
+COS Lab, course texts and handouts; always acknowledge all your sources.
+We encourage you to listen attentively to the lectures, but also 
+participate actively by asking helpful questions occasionally, answering
+ questions occasionally, and so forth. Your lecture attendance and 
+ participation are important to your success in the course and to the 
+ success of the course as a whole. Lecture participation may be 
+ partially measured using responses to iClicker questions. You must 
+ only submit your own iClicker responses — it is a violation of 
+ course policy to submit for someone else's iClicker, or to ask 
+ someone to answer questions using your iClicker.
+Some of the material covered in lectures is not covered in the 
+textbooks or precepts. Some exam questions may reward your lecture 
+attendance.
+We urge you to attend the precepts! We also encourage you to 
+participate actively in the precepts by listening attentively and 
+expressively, asking helpful questions occasionally, answering 
+questions occasionally, and so forth. Your precept attendance and 
+participation are important to your success in the course. They also 
+are important to the success of the course as a whole, and so will be 
+components of your participation grade.
+Some of the material covered in precepts is not covered in the 
+textbooks or lectures.
+You should attend your precept, that is, the precept for which you 
+are registered in Princeton's TigerHub system.
+Concerning attending another precept instead of your precept:
+Generally it is not acceptable to attend another precept instead of 
+your precept consistently. Your participation grade will suffer if you 
+do not participate in your precept. However, it is acceptable to attend 
+another precept instead of your precept occasionally if a conflict with 
+your precept arises. (Indeed you should do so.) In that case, as soon 
+as you become aware of the conflict, send e-mail to your preceptor and 
+the other preceptor. The other preceptor thereby will know to duplicate 
+handouts for you, make sure you have a seat, etc. Note that this 
+mechanism is intended to address occasional conflicts; it does not 
+provide license to attend precepts other than your precept on a regular 
+basis.
+Concerning attending another precept in addition to your precept:
+Generally it is not acceptable to attend another precept in addition 
+to your precept consistently. After all, if even a small fraction of 
+the course's students did that routinely, then some precepts would 
+be very large (or even overflow) routinely. Precepts containing a 
+large number of students are less effective than those containing a 
+small number. However, it could be acceptable to attend another
+precept in addition to your own occasionally. In that case, send 
+e-mail to your preceptor and the other preceptor the day before the
+precept, asking permission to attend. The preceptors then will make
+the decision.
+These are the course's policies concerning electronic communication:
+If you have a question that you can express without revealing any of 
+your assignment solution, then you may post it to the course's Ed 
+Discussion forum. One of the course's instructors will respond as soon
+as possible. Other students also are welcome to respond if they can 
+do so without revealing any of their assignment solutions either.
+If you have a question that you cannot express without revealing any 
+of your assignment solution, then you may not post it to Ed. Instead 
+you may e-mail it to your preceptor. See the course's General 
+Information web page for the e-mail address of your preceptor. For a 
+partnered assignment, you must include your partner and your partner's 
+preceptor on your email.
+If your preceptor does not answer your e-mailed question in a 
+reasonable amount of time, then you may e-mail your question to all of
+the course's instructors at cos217instructors@lists.cs.princeton.edu.
+Any e-mail sent to that address will be received only by the course 
+staff, not by students enrolled in the course. One of the course's 
+instructors will answer your question as soon as possible. You may not 
+e-mail questions directly to a preceptor other than your own.
+In the context of electronic communication, the phrase "any of your 
+assignment solution" includes:
+The products that you create for the assignment, that is, your source 
+code files (including comments), DFA files, Makefiles, readme files, 
+etc. You may not show any of the products that you create for the 
+assignment, modified versions of them, or any parts of them, on Ed.
+Descriptions of those products in the form of pseudo-code, flow charts, 
+outlines, diagrams, natural language prose, etc. You may not describe 
+the products that you create for the assignment, or any parts of them, 
+on Ed.
+Design decisions that you make in the process of creating those 
+products, that is, your decisions about how to express your program 
+as files, your files as functions, your functions as statements, etc. 
+You may not describe your design decisions or suggest design decisions 
+on Ed.
+
